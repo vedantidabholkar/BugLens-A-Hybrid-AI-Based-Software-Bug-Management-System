@@ -6,11 +6,17 @@ BugLens is an AI-powered bug detection and analysis system designed to identify 
 # 🚀Features: 
 
 ML-based Bug Detection & Classification using NLP techniques to identify and categorize bugs accurately
+
 AI-assisted Bug Resolution Recommendations that suggest possible fixes and priority levels based on historical trends
+
 Hybrid Machine Learning Pipeline combining TF-IDF, traditional ML classifiers, and deep learning models
+
 Transformer-based Text Understanding using DistilBERT for robust bug description analysis
+
 Clear and Structured Output Results for easy interpretation
+
 User-Friendly Interface built for smooth interaction
+
 Improves Code Reliability & Maintainability by enabling early bug triaging and informed decision-making
 
 
