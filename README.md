@@ -23,11 +23,18 @@ Improves Code Reliability & Maintainability by enabling early bug triaging and i
 # 🛠️Tech Stack:
 
 Python
+
 Google Colab
+
 Pandas, NumPy – data processing
+
 Scikit-learn – TF-IDF, Logistic Regression, Random Forest, Naive Bayes
+
 DistilBERT – NLP-based bug classification
+
 Imbalanced-learn (SMOTE) – class imbalance handling
+
 Matplotlib, Seaborn – data visualization
+
 WordCloud – text analysis
 
